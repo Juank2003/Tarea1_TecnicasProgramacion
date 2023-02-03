@@ -1,7 +1,9 @@
 # Tarea1_TecnicasProgramacion
 Primera tarea de técnicas de Programación
 
-## Nota: mi repositorio es 
+## Nota: mi repositorio es https://github.com/Juank2003/Tarea1_TecnicasProgramacion.git
+
+## Enunciado
 
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:__
