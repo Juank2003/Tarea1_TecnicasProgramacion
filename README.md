@@ -1,7 +1,8 @@
 # Tarea1_TecnicasProgramacion
 Primera tarea de técnicas de Programación
 
-## Nota: mi repositorio es https://github.com/Juank2003/Tarea1_TecnicasProgramacion.git
+## Nota: 
+mi repositorio es https://github.com/Juank2003/Tarea1_TecnicasProgramacion.git
 
 ## Enunciado
 
